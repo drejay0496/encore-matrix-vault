@@ -7,7 +7,7 @@
   },
   "servers": [
     {
-      "url": "https://actions.zapier.com/api/v1"
+      "url": "https://mcp.zapier.com/api/v1/connect?token=OTZmMDJlODMtMjgyYy00YTBiLWE2MjUtMDY0NGYwMjkzMmNiOjRPd0RqOFU1VTdrM3Mxd0NoQWZKVllML1hXem9RbG5uRWJSMEI2OXJWbzg9"
     }
   ],
   "paths": {
